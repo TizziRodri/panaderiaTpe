@@ -1,2 +1,0 @@
-Tecnologias a incorporar:
-React, node.js, MySQL
