@@ -1,0 +1,3 @@
+Ver catalogo.
+Realizar un pedido.
+Consultar horarios y ubicacion.
